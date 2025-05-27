@@ -1,0 +1,56 @@
+[33mcommit 21e0d4b545c3edda076fcee60d7255fc36937cef[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfirst_branch[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 56d8041 e5ed585
+Author: Shamin Maksim <shamin.maxim@mail.ru>
+Date:   Tue May 27 14:50:38 2025 +0300
+
+    test
+
+[33mcommit 56d80415f79fe81b4d88bf1613d5fad08ada2ae7[m
+Author: Shamin Maksim <shamin.maxim@mail.ru>
+Date:   Tue May 27 14:47:09 2025 +0300
+
+    test
+
+[33mcommit e5ed5856327aaa595860eaa9ce3e639511559938[m
+Author: Shamin Maksim <76558595+Shamin-Maksim@users.noreply.github.com>
+Date:   Tue May 27 14:46:24 2025 +0300
+
+    Update file1.txt
+
+[33mcommit c364957b6e8eb1b15be5795b944b174615026899[m
+Author: Shamin Maksim <shamin.maxim@mail.ru>
+Date:   Tue May 27 14:35:06 2025 +0300
+
+    test
+
+[33mcommit b4d1b0b31ed0e48de3b9ff2bd53c833a446ac1fe[m
+Author: Shamin Maksim <shamin.maxim@mail.ru>
+Date:   Tue May 27 14:34:04 2025 +0300
+
+    new commit
+
+[33mcommit c53113cfd2e0c87ecc536efaf647c3433f3efdd4[m
+Author: Shamin Maksim <shamin.maxim@mail.ru>
+Date:   Tue May 27 12:12:50 2025 +0300
+
+    new commit
+
+[33mcommit 9dcee19f9348aabf02352b718c6b98234f827129[m
+Author: Shamin Maksim <76558595+Shamin-Maksim@users.noreply.github.com>
+Date:   Tue May 27 11:58:58 2025 +0300
+
+    Update file1.txt
+    
+    Adding the newline
+
+[33mcommit 3dc842a1880ea5dedb948ed0d019ee520621eed1[m
+Author: Shamin Maksim <shamin.maxim@mail.ru>
+Date:   Tue May 27 11:31:05 2025 +0300
+
+    test commit 1.1
+
+[33mcommit ec1a65b32d376ba6331a5ee69ef5364a216fada5[m
+Author: Shamin Maksim <shamin.maxim@mail.ru>
+Date:   Tue May 27 11:21:40 2025 +0300
+
+    test commit 1
